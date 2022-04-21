@@ -6,4 +6,8 @@ import styled from "styled-components";
   display: flex;
   justify-content: space-between;
   flex-direction: row;
+
+  >img{
+    width: 110px;
+  }
  `

@@ -1,4 +1,6 @@
 const Menu = () =>{
-  return <div>Menu</div>
+  return (
+    <a href=""></a>
+  )
 }
 export default Menu

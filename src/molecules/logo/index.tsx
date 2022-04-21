@@ -1,8 +1,10 @@
-import LogoHero from "../../img/Logo.png"
+import Logod from "../../assets/logo-hero.png"
 
-export const Logo = () =>{
+const Logo = () =>{
   return(
-   <img src="{LogoHero}" alt="Logo Hero Header" />
+    <div>
+      <img src="{Logod}"/>
+    </div>
   )
 }
 export default Logo
